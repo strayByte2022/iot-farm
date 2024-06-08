@@ -1,0 +1,16 @@
+.page {
+  padding: 16px 16px 96px 16px;
+}
+
+.section-container {
+  display: grid;
+  padding: 16px;
+  background: #ffffff;
+  border-radius: 8px;
+  margin-bottom: 24px;
+  gap: 20px;
+}
+
+.zaui-list-item {
+  cursor: pointer;
+}
